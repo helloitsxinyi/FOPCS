@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{C35D142E-E75A-4F4C-98CA-FF709DF8D2B4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Quiz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Quiz" expanded="True">
+            <Node name="Quiz" expanded="True">
+              <Node name="ConvertCmToIn.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
