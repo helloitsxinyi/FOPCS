@@ -1,8 +1,5 @@
 ﻿<Properties StartupConfiguration="{AF4B0B2E-F8F7-441E-98F7-C6AC1D136EE3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SecondProject/ThirdProgram.cs">
-    <Files>
-      <File FileName="SecondProject/ThirdProgram.cs" Line="11" Column="22" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
