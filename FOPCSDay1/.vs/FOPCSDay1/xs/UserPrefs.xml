@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AF4B0B2E-F8F7-441E-98F7-C6AC1D136EE3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SecondProject/ThirdProgram.cs">
+    <Files>
+      <File FileName="SecondProject/ThirdProgram.cs" Line="11" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FOPCSDay1" expanded="True">
+            <Node name="FirstProject" expanded="True" />
+            <Node name="SecondProject" expanded="True">
+              <Node name="ThirdProgram.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FirstProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
