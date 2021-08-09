@@ -1,25 +1,23 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{AF4B0B2E-F8F7-441E-98F7-C6AC1D136EE3}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{BFD10FD9-0D3B-4FAC-9467-55E032E34F2E}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="SecondProject/SecondProgram.cs" Line="1" Column="1" />
       <File FileName="SecondProject/ThirdProgram.cs" Line="1" Column="1" />
-      <File FileName="NumbersAndPlaceholders/Program.cs" Line="9" Column="6" />
+      <File FileName="NumbersAndPlaceholders/Program.cs" Line="17" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FOPCSDay1" expanded="True">
             <Node name="FirstProject" expanded="True" />
-            <Node name="NumbersAndPlaceholders" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="NumbersAndPlaceholders" expanded="True" selected="True" />
             <Node name="SecondProject" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.NumbersAndPlaceholders FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.NumbersAndPlaceholders PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.FirstProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
