@@ -1,20 +1,20 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{7D21F34B-938F-4102-BB72-6A83B7BE68D8}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4469EF2C-2ED7-46CC-9D9B-C875B48A5F9C}|Default">
   <MonoDevelop.Ide.ItemProperties.ExerciseA PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Quiz PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ExerciseB PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="ExerciseA/Question2.cs" Line="9" Column="16" />
-      <File FileName="ExerciseA/EmptyClass.cs" Line="8" Column="1" />
+      <File FileName="ExerciseA/Question2.cs" Line="11" Column="11" />
+      <File FileName="ExerciseA/Question1.cs" Line="12" Column="1" />
+      <File FileName="MathOperators/Program.cs" Line="11" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FOPCSDay2" expanded="True">
-            <Node name="ExerciseA" expanded="True">
-              <Node name="Question2.cs" selected="True" />
-            </Node>
+            <Node name="ExerciseA" expanded="True" />
             <Node name="ExerciseB" expanded="True" />
+            <Node name="MathOperators" expanded="True" selected="True" />
             <Node name="Quiz" expanded="True" />
           </Node>
         </State>
@@ -22,6 +22,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MathOperators PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
