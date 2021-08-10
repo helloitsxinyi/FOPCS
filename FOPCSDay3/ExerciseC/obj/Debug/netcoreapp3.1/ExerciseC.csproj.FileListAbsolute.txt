@@ -1,0 +1,11 @@
+/Users/xinyitay/Projects/FOPCS/FOPCSDay3/ExerciseC/bin/Debug/netcoreapp3.1/ExerciseC.deps.json
+/Users/xinyitay/Projects/FOPCS/FOPCSDay3/ExerciseC/bin/Debug/netcoreapp3.1/ExerciseC.runtimeconfig.json
+/Users/xinyitay/Projects/FOPCS/FOPCSDay3/ExerciseC/bin/Debug/netcoreapp3.1/ExerciseC.runtimeconfig.dev.json
+/Users/xinyitay/Projects/FOPCS/FOPCSDay3/ExerciseC/bin/Debug/netcoreapp3.1/ExerciseC.dll
+/Users/xinyitay/Projects/FOPCS/FOPCSDay3/ExerciseC/bin/Debug/netcoreapp3.1/ExerciseC.pdb
+/Users/xinyitay/Projects/FOPCS/FOPCSDay3/ExerciseC/obj/Debug/netcoreapp3.1/ExerciseC.AssemblyInfoInputs.cache
+/Users/xinyitay/Projects/FOPCS/FOPCSDay3/ExerciseC/obj/Debug/netcoreapp3.1/ExerciseC.AssemblyInfo.cs
+/Users/xinyitay/Projects/FOPCS/FOPCSDay3/ExerciseC/obj/Debug/netcoreapp3.1/ExerciseC.csproj.CoreCompileInputs.cache
+/Users/xinyitay/Projects/FOPCS/FOPCSDay3/ExerciseC/obj/Debug/netcoreapp3.1/ExerciseC.dll
+/Users/xinyitay/Projects/FOPCS/FOPCSDay3/ExerciseC/obj/Debug/netcoreapp3.1/ExerciseC.pdb
+/Users/xinyitay/Projects/FOPCS/FOPCSDay3/ExerciseC/obj/Debug/netcoreapp3.1/ExerciseC.genruntimeconfig.cache
