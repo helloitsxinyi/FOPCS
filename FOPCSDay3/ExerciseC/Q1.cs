@@ -7,53 +7,35 @@ namespace ExerciseC
         {       
             Console.WriteLine("What is your name? ");
             string name = Console.ReadLine();
-            string gender;
-
-
-            // can't do like the below: gender is always null as we refer to global scope during while condition.
-            // gender is updated only in local NOT global scope during ReadLine, so while still sees gender as null.
-            // reread about calling exceptions, if it goes out by 1 level, eventually to main level where it crashes
-            // ?? but the variable should update!!
-
-            //do
-            //{
-            //    Console.WriteLine("What is your gender? Enter M or F (case sensitive): ");
-            //    gender = Console.ReadLine();                              
-            //}
-            //while (gender != "M" || gender != "F");
+            string gender;                         
 
             do
             {
                 Console.WriteLine("What is your gender? Enter M or F (case sensitive): ");
                 gender = Console.ReadLine();
 
-                if (gender == "M")
+                // important in order to exit the loop and move on to next part of code.
+                if (gender == "M" || gender == "F")
                 {
-                    Console.WriteLine("Good Morning Mr. {0}!", name);
+                    break;
                 }
-                else if (gender == "F")
-                {
-                    Console.WriteLine("Good Morning Ms. {0}!", name);
-                }
-                else return;
             }
+            // if gender == M,
+            // gender != M -> false
+            // gender != F -> true
+            // gender != M || gender !=F -> true, so continue executing do code block.
+            // stops if while is false.
             while (gender != "M" || gender != "F");
 
-            //while (gender != "M" || gender != "F")
-            //{
-            //    Console.WriteLine("What is your gender? Enter M or F (case sensitive): ");
-            //    gender = Console.ReadLine();
-            //}
-
-            //if (gender == "M")
-            //{
-            //    Console.WriteLine("Good Morning Mr. {0}!", name);
-            //}
-            //else 
-            //{
-            //    Console.WriteLine("Good Morning Ms. {0}!", name);
-            //}
+            if (gender == "M")
+            {
+                Console.WriteLine("Good Morning Mr. {0}!", name);
+            }
+            else
+            {
+                Console.WriteLine("Good Morning Ms. {0}!", name);
             }
         }
     }
+}
 
