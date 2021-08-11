@@ -1,0 +1,13 @@
+/Users/xinyitay/Projects/FOPCSDay4/FOPCSDay4/bin/Debug/netcoreapp3.1/Quiz.deps.json
+/Users/xinyitay/Projects/FOPCSDay4/FOPCSDay4/bin/Debug/netcoreapp3.1/Quiz.runtimeconfig.json
+/Users/xinyitay/Projects/FOPCSDay4/FOPCSDay4/bin/Debug/netcoreapp3.1/Quiz.runtimeconfig.dev.json
+/Users/xinyitay/Projects/FOPCSDay4/FOPCSDay4/bin/Debug/netcoreapp3.1/Quiz.dll
+/Users/xinyitay/Projects/FOPCSDay4/FOPCSDay4/bin/Debug/netcoreapp3.1/Quiz.pdb
+/Users/xinyitay/Projects/FOPCSDay4/FOPCSDay4/obj/Debug/netcoreapp3.1/Quiz.csproj.AssemblyReference.cache
+/Users/xinyitay/Projects/FOPCSDay4/FOPCSDay4/obj/Debug/netcoreapp3.1/Quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xinyitay/Projects/FOPCSDay4/FOPCSDay4/obj/Debug/netcoreapp3.1/Quiz.AssemblyInfoInputs.cache
+/Users/xinyitay/Projects/FOPCSDay4/FOPCSDay4/obj/Debug/netcoreapp3.1/Quiz.AssemblyInfo.cs
+/Users/xinyitay/Projects/FOPCSDay4/FOPCSDay4/obj/Debug/netcoreapp3.1/Quiz.csproj.CoreCompileInputs.cache
+/Users/xinyitay/Projects/FOPCSDay4/FOPCSDay4/obj/Debug/netcoreapp3.1/Quiz.dll
+/Users/xinyitay/Projects/FOPCSDay4/FOPCSDay4/obj/Debug/netcoreapp3.1/Quiz.pdb
+/Users/xinyitay/Projects/FOPCSDay4/FOPCSDay4/obj/Debug/netcoreapp3.1/Quiz.genruntimeconfig.cache
