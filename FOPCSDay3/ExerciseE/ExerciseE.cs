@@ -26,6 +26,9 @@ namespace ExerciseE
                 case "5":
                     Q5.solution();
                     break;
+                case "6":
+                    Q6.solution();
+                    break;
                 default:
                     Console.WriteLine("Please enter a number from 1 to 5!");
                     Main();

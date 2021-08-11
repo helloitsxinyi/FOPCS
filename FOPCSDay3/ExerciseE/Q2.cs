@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ExerciseC
+namespace ExerciseE
 {
     public class Q2
     {

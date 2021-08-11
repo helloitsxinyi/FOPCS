@@ -1,7 +1,7 @@
 ﻿using System;
-namespace ExerciseC
+namespace ExerciseE
 {
-    public class Q5
+    public class Q6
     {
         public static void solution()
         {
