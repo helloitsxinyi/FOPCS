@@ -1,0 +1,12 @@
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ClassNotes/bin/Debug/netcoreapp3.1/ClassNotes.deps.json
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ClassNotes/bin/Debug/netcoreapp3.1/ClassNotes.runtimeconfig.json
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ClassNotes/bin/Debug/netcoreapp3.1/ClassNotes.runtimeconfig.dev.json
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ClassNotes/bin/Debug/netcoreapp3.1/ClassNotes.dll
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ClassNotes/bin/Debug/netcoreapp3.1/ClassNotes.pdb
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ClassNotes/obj/Debug/netcoreapp3.1/ClassNotes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ClassNotes/obj/Debug/netcoreapp3.1/ClassNotes.AssemblyInfoInputs.cache
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ClassNotes/obj/Debug/netcoreapp3.1/ClassNotes.AssemblyInfo.cs
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ClassNotes/obj/Debug/netcoreapp3.1/ClassNotes.csproj.CoreCompileInputs.cache
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ClassNotes/obj/Debug/netcoreapp3.1/ClassNotes.dll
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ClassNotes/obj/Debug/netcoreapp3.1/ClassNotes.pdb
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ClassNotes/obj/Debug/netcoreapp3.1/ClassNotes.genruntimeconfig.cache

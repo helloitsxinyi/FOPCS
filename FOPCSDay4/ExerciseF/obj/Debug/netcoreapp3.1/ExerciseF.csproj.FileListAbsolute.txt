@@ -1,0 +1,13 @@
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ExerciseF/bin/Debug/netcoreapp3.1/ExerciseF.deps.json
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ExerciseF/bin/Debug/netcoreapp3.1/ExerciseF.runtimeconfig.json
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ExerciseF/bin/Debug/netcoreapp3.1/ExerciseF.runtimeconfig.dev.json
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ExerciseF/bin/Debug/netcoreapp3.1/ExerciseF.dll
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ExerciseF/bin/Debug/netcoreapp3.1/ExerciseF.pdb
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ExerciseF/obj/Debug/netcoreapp3.1/ExerciseF.csproj.AssemblyReference.cache
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ExerciseF/obj/Debug/netcoreapp3.1/ExerciseF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ExerciseF/obj/Debug/netcoreapp3.1/ExerciseF.AssemblyInfoInputs.cache
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ExerciseF/obj/Debug/netcoreapp3.1/ExerciseF.AssemblyInfo.cs
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ExerciseF/obj/Debug/netcoreapp3.1/ExerciseF.csproj.CoreCompileInputs.cache
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ExerciseF/obj/Debug/netcoreapp3.1/ExerciseF.dll
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ExerciseF/obj/Debug/netcoreapp3.1/ExerciseF.pdb
+/Users/xinyitay/Projects/FOPCS/FOPCSDay4/ExerciseF/obj/Debug/netcoreapp3.1/ExerciseF.genruntimeconfig.cache
