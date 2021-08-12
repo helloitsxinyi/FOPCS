@@ -1,0 +1,35 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{5F7A7E82-BEEB-470C-BB3A-939051F85100}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExerciseF PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="../../../Downloads/q3.cs" Line="1" Column="1" />
+      <File FileName="ExerciseF/ExerciseF.cs" Line="17" Column="17" />
+      <File FileName="ExerciseF/Q3.cs" Line="16" Column="14" />
+      <File FileName="ExerciseF/ExerciseE.cs" Line="1" Column="1" />
+      <File FileName="ExerciseF/Q1.cs" Line="29" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FOPCSDay4" expanded="True">
+            <Node name="ClassNotes" expanded="True" />
+            <Node name="ExerciseF" expanded="True">
+              <Node name="ExerciseF.cs" selected="True" />
+            </Node>
+            <Node name="Quiz" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ClassNotes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>FOPCSDay4/Quiz.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
