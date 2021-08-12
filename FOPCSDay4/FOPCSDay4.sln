@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.810.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz", "Quiz\Quiz.csproj", "{93052C54-F62A-40CB-83E8-CF2DF764BB9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseF", "ExerciseF\ExerciseF.csproj", "{1376CBF1-07E5-4E9A-A453-57E91618DCFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassNotes", "ClassNotes\ClassNotes.csproj", "{5F7A7E82-BEEB-470C-BB3A-939051F85100}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{93052C54-F62A-40CB-83E8-CF2DF764BB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93052C54-F62A-40CB-83E8-CF2DF764BB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93052C54-F62A-40CB-83E8-CF2DF764BB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1376CBF1-07E5-4E9A-A453-57E91618DCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1376CBF1-07E5-4E9A-A453-57E91618DCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1376CBF1-07E5-4E9A-A453-57E91618DCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1376CBF1-07E5-4E9A-A453-57E91618DCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7A7E82-BEEB-470C-BB3A-939051F85100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7A7E82-BEEB-470C-BB3A-939051F85100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7A7E82-BEEB-470C-BB3A-939051F85100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7A7E82-BEEB-470C-BB3A-939051F85100}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
