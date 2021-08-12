@@ -5,7 +5,9 @@ namespace ExerciseE
     {
         public static void solution()
         {
-          
+            Console.WriteLine("NO\tINVERSE\t\tSQUARE ROOT\tSQUARE");
+            Console.WriteLine("------------------------------------------------------");
+            
             for (double num = 1; num <= 10; num++)
             {
 
@@ -13,7 +15,7 @@ namespace ExerciseE
                 double root = Math.Sqrt(num);
                 double square = Math.Pow(num, 2);
 
-                Console.WriteLine($"Number{num: 0.0}\tInverse{inverse: 0.0##}\tSquare root{root: 0.0##}\tSquare {square: 0.0}");
+                Console.WriteLine($"{num: 0.0}\t{inverse: 0.0##}\t\t{root: 0.0##}\t\t{square: 0.0}");
           
             }
 
