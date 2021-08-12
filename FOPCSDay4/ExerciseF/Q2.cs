@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ExerciseE
+namespace ExerciseF
 {
     public class Q2
     {
@@ -20,7 +20,7 @@ namespace ExerciseE
             }
 
 
-            ExerciseE.Main();
+            ExerciseF.Main();
         }
     }
 }

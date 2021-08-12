@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace ExerciseE
+namespace ExerciseF
 {
-    class Exercise
+    class ExerciseF
     {
         public static void Main()
         {
