@@ -1,0 +1,13 @@
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/ExerciseE/bin/Debug/netcoreapp3.1/ExerciseE.deps.json
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/ExerciseE/bin/Debug/netcoreapp3.1/ExerciseE.runtimeconfig.json
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/ExerciseE/bin/Debug/netcoreapp3.1/ExerciseE.runtimeconfig.dev.json
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/ExerciseE/bin/Debug/netcoreapp3.1/ExerciseE.dll
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/ExerciseE/bin/Debug/netcoreapp3.1/ExerciseE.pdb
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/ExerciseE/obj/Debug/netcoreapp3.1/ExerciseE.csproj.AssemblyReference.cache
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/ExerciseE/obj/Debug/netcoreapp3.1/ExerciseE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/ExerciseE/obj/Debug/netcoreapp3.1/ExerciseE.AssemblyInfoInputs.cache
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/ExerciseE/obj/Debug/netcoreapp3.1/ExerciseE.AssemblyInfo.cs
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/ExerciseE/obj/Debug/netcoreapp3.1/ExerciseE.csproj.CoreCompileInputs.cache
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/ExerciseE/obj/Debug/netcoreapp3.1/ExerciseE.dll
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/ExerciseE/obj/Debug/netcoreapp3.1/ExerciseE.pdb
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/ExerciseE/obj/Debug/netcoreapp3.1/ExerciseE.genruntimeconfig.cache
