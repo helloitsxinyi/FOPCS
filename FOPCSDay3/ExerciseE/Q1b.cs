@@ -10,7 +10,7 @@ namespace ExerciseE
 
             int answer = 1;
 
-            for (int i = 1; i <= num; i++)
+            for (int i = num; i >= 1; i--)
             {
                 answer *= i;
             }
