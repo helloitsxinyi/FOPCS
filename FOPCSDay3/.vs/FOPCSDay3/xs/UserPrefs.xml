@@ -1,12 +1,16 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{97203CBE-17D7-4F8B-BA28-1F3407C7FA97}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4AB0A812-BFE6-4BBA-93C6-50C4BC557CFD}|Default">
   <MonoDevelop.Ide.ItemProperties.Quiz PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="ExerciseC/Q2.cs" Line="6" Column="23" />
       <File FileName="../../../Downloads/ExCQ3.cs" />
-      <File FileName="ExerciseE/Program.cs" Line="18" Column="28" />
-      <File FileName="ExerciseC/ExerciseC.cs" Line="7" Column="26" />
+      <File FileName="ExerciseC/ExerciseC.cs" Line="30" Column="27" />
       <File FileName="ExerciseC/Q1.cs" Line="1" Column="1" />
+      <File FileName="ExerciseE/Q1.cs" Line="4" Column="21" />
+      <File FileName="ExerciseE/Q3.cs" Line="1" Column="1" />
+      <File FileName="ExerciseE/Q2.cs" Line="1" Column="1" />
+      <File FileName="ExerciseE/ExerciseE.cs" Line="17" Column="26" />
+      <File FileName="ExerciseE/Q1b.cs" Line="19" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,11 +18,14 @@
           <Node name="FOPCSDay3" expanded="True">
             <Node name="ExerciseC" expanded="True" />
             <Node name="ExerciseE" expanded="True">
-              <Node name="ExerciseE.cs" selected="True" />
+              <Node name="Q1b.cs" selected="True" />
             </Node>
             <Node name="Quiz" expanded="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -32,4 +39,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.ExerciseC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExerciseE PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

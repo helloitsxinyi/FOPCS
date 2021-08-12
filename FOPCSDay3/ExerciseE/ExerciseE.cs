@@ -4,15 +4,18 @@ namespace ExerciseE
 {
     class ExerciseE
     {
-        static void Main()
+        public static void Main()
         {
-            Console.WriteLine("Enter the question you would like to test: ");
+            Console.WriteLine("Enter the question you would like to test. Enter 'exit' to end.");
             string question = Console.ReadLine();
 
             switch (question)
             {
-                case "1":
-                    Q1.solution();
+                case "1a":
+                    Q1a.solution();
+                    break;
+                case "1b":
+                    Q1b.solution();
                     break;
                 case "2":
                     Q2.solution();
@@ -28,6 +31,8 @@ namespace ExerciseE
                     break;
                 case "6":
                     Q6.solution();
+                    break;
+                case "exit":
                     break;
                 default:
                     Console.WriteLine("Please enter a number from 1 to 5!");

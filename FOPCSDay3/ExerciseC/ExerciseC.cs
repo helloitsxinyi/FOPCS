@@ -6,7 +6,7 @@ namespace ExerciseC
     {
         static void Main()
         {
-            Console.WriteLine("Enter the question you would like to test: ");
+            Console.WriteLine("Enter the question you would like to test. Enter 'exit' to end.");
             string question = Console.ReadLine();
 
             switch (question)
@@ -25,6 +25,8 @@ namespace ExerciseC
                     break;
                 case "5":
                     Q5.solution();
+                    break;
+                case "exit":
                     break;
                 default:
                     Console.WriteLine("Please enter a number from 1 to 5!");
