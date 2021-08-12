@@ -8,15 +8,25 @@ namespace ExerciseE
             Console.WriteLine("Enter a number: ");
             int num = int.Parse(Console.ReadLine());
 
-            int answer = 1;
-
-            for (int i = 1; i <= num; i++)
+            while (num < 0)
             {
-                answer *= i;
+                Console.WriteLine("Error! Please input a number that is 0 or larger.");
+                Console.WriteLine("Enter a number: ");
+                num = int.Parse(Console.ReadLine());
             }
 
-            Console.WriteLine("The factorial of " + num + " is " + answer);
-            ExerciseE.Main();
+            if (num >= 0)
+            {
+                int answer = 1;
+
+                for (int i = 1; i <= num; i++)
+                {
+                    answer *= i;
+                }
+
+                Console.WriteLine("The factorial of " + num + " is " + answer);
+                ExerciseE.Main();
+            }        
         }
     }
 }
