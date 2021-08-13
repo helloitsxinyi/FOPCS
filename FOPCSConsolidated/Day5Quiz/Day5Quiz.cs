@@ -4,7 +4,7 @@ namespace Day5Quiz
 {
         class Day5Quiz
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int[,] theArray = new int[,]
             {
@@ -19,24 +19,37 @@ namespace Day5Quiz
             int input = Convert.ToInt32(Console.ReadLine());
 
             //Your code here
-            for (int i = 0; i < theArray.GetLength(0); i++) { 
-                for (int j = 0; j < theArray.GetLength(1); j++)
+            //try
+            //{
+                for (int i = 0; i < theArray.GetLength(0); i++)
                 {
-                    if (theArray[i,j] == input)
+                    for (int j = 0; j < theArray.GetLength(1); j++)
                     {
-                        count += 1;
+                        if (theArray[i, j] == input)
+                        {
+                            count += 1;
+                        }
                     }
                 }
-            }
 
-            if (count >= 1)
-            {
-                Console.WriteLine($"The number of {input} is {count}");
-            } else
-            {
-                Console.WriteLine($"There is no {input} in the array.");
-            }
-          
+                if (count >= 1)
+                {
+                    Console.WriteLine($"The number of {input} is {count}");
+                }
+                else
+                {
+                    Console.WriteLine($"There is no {input} in the array.");
+                }
+
+            //}
+            //***fix catch to display the error message***
+            //catch (FormatException)
+            //{                
+            //    Console.WriteLine("Invalid input, please input only a number from 0-9!");
+            //    Main();
+            //}
+
+
         }
     }
 }
