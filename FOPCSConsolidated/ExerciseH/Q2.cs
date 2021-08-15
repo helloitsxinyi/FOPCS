@@ -26,10 +26,7 @@ namespace ExerciseH
             {
                 Console.WriteLine("Invalid input! Please input an integer.");
                 Q2.solution();
-            }
-
-          
-
+            }       
         }
 
         private static void PrintArray(int[] arr)
