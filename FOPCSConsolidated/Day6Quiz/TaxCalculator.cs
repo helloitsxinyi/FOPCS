@@ -30,9 +30,10 @@ namespace Day6Quiz
             catch (FormatException e)
             {
                 Console.WriteLine("Invalid input! Please try again.");
-            }
-          
+            }          
         }
+
+        // YOUR CODE HERE
 
         static int AskForIncome()
         {
@@ -75,8 +76,6 @@ namespace Day6Quiz
         static void PrintResult(int annualIncome, double taxPayable)
         {
             Console.Write($"For taxable annual income of ${annualIncome:#,#,0.00}, the tax payable amount is ${taxPayable:#,#,0.00}");
-        }
-
-        //YOUR CODE HERE
+        }        
     }
 }
