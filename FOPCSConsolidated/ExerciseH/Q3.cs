@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+
 namespace ExerciseH
 {
     public class Q3
@@ -7,45 +9,64 @@ namespace ExerciseH
         {
             Console.WriteLine("pls enter integer");
             int integer = int.Parse(Console.ReadLine());
-            int hexadecimal = ConvertToHexadecimal(integer);
-
+            string hexadecimal = ConvertToHexadecimal(integer);
+            Console.WriteLine($"Your hexadecimal is {hexadecimal}");
 
         }
 
-        static int ConvertToHexadecimal(int integer)
+        static string ConvertToHexadecimal(int integer)
         {
-            // div returns the quotient (int)
-            int quotient = integer / 16;
-            int remainder = integer % 16;
+            string hexadecimal = "";
 
-            int quotientHex = HexTableValue(quotient);
-            int remainderHex = HexTableValue(remainder);
-
-            int calculatedHexadecimal = quotientHex * 16 + remainderHex;
-
-            return calculatedHexadecimal;
-        }
-
-        static int HexTableValue (int valueToCalculate)
-        {
-            int calculatedValue = 0;
-            // hex conversion table
-            switch (valueToCalculate)
+            if (integer == 0)
             {
-                case int i when (i <= 9):
-                    calculatedValue = i;
-                    break;
-                case int i when (i >= 16 && i <= 25):
-                    calculatedValue = i + 6;
-                    break;
-                    
+                hexadecimal += Convert.ToString(0);
             }
-            return calculatedValue;
 
-        }
+            while (integer != 0)
+            {
+                int remainder = integer % 16;
 
+                switch (remainder)
+                {
+                    case 10:
+                        hexadecimal += "A";
+                        break;
+                    case 11:
+                        hexadecimal += "B";
+                        break;
+                    case 12:
+                        hexadecimal += "C";
+                        break;
+                    case 13:
+                        hexadecimal += "D";
+                        break;
+                    case 14:
+                        hexadecimal += "E";
+                        break;
+                    case 15:
+                        hexadecimal += "F";
+                        break;
+                    default:
+                        hexadecimal += Convert.ToString(remainder);
+                        break;
+                }
+                Console.WriteLine($"{hexadecimal}");
 
+                integer /= 16;
 
+            }
+            // simpler using built in method.
+            //return new string(hexadecimal.ToCharArray().Reverse().ToArray());
+            string reversedHexadecimal = "";
+
+            for (int i = hexadecimal.Length - 1; i >= 0; i--)
+            {
+                reversedHexadecimal += hexadecimal[i];
+            }
+
+            return reversedHexadecimal;
+        }         
     }
 }
 
