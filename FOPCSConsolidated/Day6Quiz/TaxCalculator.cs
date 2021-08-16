@@ -29,11 +29,15 @@ namespace Day6Quiz
             }
             catch (FormatException e)
             {
-                Console.WriteLine("Invalid input! Please try again.");
+                Console.WriteLine("Invalid input! Please try again.");                
             }          
         }
 
-        // YOUR CODE HERE
+        // YOUR CODE HERE (20-25m)
+        // exam - 4 questions
+        // can write comments in exam, help examiner to understand logic, but not compulsory
+        // error handling is not compulsory, no bonus marks. but good habit
+        // 1 question FOPCS
 
         static int AskForIncome()
         {
