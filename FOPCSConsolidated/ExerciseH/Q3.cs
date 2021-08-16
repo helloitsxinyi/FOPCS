@@ -7,13 +7,24 @@ namespace ExerciseH
     {
         public static void solution()
         {
+            Console.WriteLine("Here are the values obtained from the custom hexadecimal function: ");
             Console.WriteLine("Number \t Hexadecimal");
 
             for (int i = 1; i <= 100; i++)
             {
                 string hexadecimal = ConvertToHexadecimal(i);
                 Console.WriteLine($"{i} \t {hexadecimal}");
-            }                   
+            }
+
+
+            Console.WriteLine("Here are the values obtained from the built-in function: ");
+            Console.WriteLine("Number \t Hexadecimal");
+
+            for (int i = 1; i <= 100; i++)
+            {                
+                Console.WriteLine($"{i} \t {Convert.ToString(i, 16)}");             
+            }
+
 
         }
 
