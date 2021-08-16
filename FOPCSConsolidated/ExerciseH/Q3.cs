@@ -7,10 +7,13 @@ namespace ExerciseH
     {
         public static void solution()
         {
-            Console.WriteLine("pls enter integer");
-            int integer = int.Parse(Console.ReadLine());
-            string hexadecimal = ConvertToHexadecimal(integer);
-            Console.WriteLine($"Your hexadecimal is {hexadecimal}");
+            Console.WriteLine("Number \t Hexadecimal");
+
+            for (int i = 1; i <= 100; i++)
+            {
+                string hexadecimal = ConvertToHexadecimal(i);
+                Console.WriteLine($"{i} \t {hexadecimal}");
+            }                   
 
         }
 
@@ -51,8 +54,7 @@ namespace ExerciseH
                         hexadecimal += Convert.ToString(remainder);
                         break;
                 }
-                Console.WriteLine($"{hexadecimal}");
-
+                
                 integer /= 16;
 
             }
