@@ -1,0 +1,12 @@
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/Day6Quiz/bin/Debug/netcoreapp3.1/Day6Quiz.deps.json
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/Day6Quiz/bin/Debug/netcoreapp3.1/Day6Quiz.runtimeconfig.json
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/Day6Quiz/bin/Debug/netcoreapp3.1/Day6Quiz.runtimeconfig.dev.json
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/Day6Quiz/bin/Debug/netcoreapp3.1/Day6Quiz.dll
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/Day6Quiz/bin/Debug/netcoreapp3.1/Day6Quiz.pdb
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/Day6Quiz/obj/Debug/netcoreapp3.1/Day6Quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/Day6Quiz/obj/Debug/netcoreapp3.1/Day6Quiz.AssemblyInfoInputs.cache
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/Day6Quiz/obj/Debug/netcoreapp3.1/Day6Quiz.AssemblyInfo.cs
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/Day6Quiz/obj/Debug/netcoreapp3.1/Day6Quiz.csproj.CoreCompileInputs.cache
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/Day6Quiz/obj/Debug/netcoreapp3.1/Day6Quiz.dll
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/Day6Quiz/obj/Debug/netcoreapp3.1/Day6Quiz.pdb
+/Users/xinyitay/Projects/FOPCS/FOPCSConsolidated/Day6Quiz/obj/Debug/netcoreapp3.1/Day6Quiz.genruntimeconfig.cache
